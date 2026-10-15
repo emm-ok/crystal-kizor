@@ -115,7 +115,7 @@ export default function SiteHeader() {
                                 onClick={closeMenu}
                                 className="mt-5 inline-flex min-h-12 items-center justify-center gap-2 bg-[#202923] px-5 text-xs font-semibold text-white transition-colors hover:bg-[#39453a] focus-visible:outline-2 focus-visible:outline-offset-3 focus-visible:outline-[#68745c]"
                             >
-                                Connect with Crystal
+                                Start a conversation
                                 <ArrowUpRight size={15} strokeWidth={1.7} aria-hidden="true" />
                             </a>
                         </div>
