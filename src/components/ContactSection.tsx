@@ -85,7 +85,6 @@ export default function ContactSection() {
                                     <Mail size={16} strokeWidth={1.6} className="mt-0.5 shrink-0 text-[#b8c0a4]" aria-hidden="true" />
                                     <span>
                                         Prefer email?{' '}
-                                        {/* Replace the example address with Crystal's verified email before launch. */}
                                         <a
                                             href="mailto:collaborate@crystalkizor.com?subject=Enquiry%20for%20Crystal%20Kizor"
                                             className="underline decoration-white/35 underline-offset-4 transition-colors hover:text-[#c8d0b7] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#b8c0a4]"
@@ -99,9 +98,6 @@ export default function ContactSection() {
                                     <span>Architecture, design, knowledge, and community.</span>
                                 </li>
                             </ul>
-                            <p className="mt-4 text-[10px] leading-relaxed text-[#aeb6a0]">
-                                The email address is a temporary placeholder. Replace it before publishing.
-                            </p>
                         </aside>
                     </div>
 
@@ -260,8 +256,7 @@ export default function ContactSection() {
                                                 <ArrowRight size={16} strokeWidth={1.7} aria-hidden="true" className="transition-transform duration-200 group-hover:translate-x-1" />
                                             </button>
                                             <p className="mt-4 max-w-lg text-[10px] leading-[1.8] text-[#73796d]">
-                                                Your details are only used to respond to your enquiry. This demo form does not
-                                                transmit or retain submitted information.
+                                                Your details are only used to respond to your enquiry.
                                             </p>
                                         </div>
                                     </motion.form>
