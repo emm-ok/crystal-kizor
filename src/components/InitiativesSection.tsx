@@ -138,7 +138,6 @@ function InitiativeCard({ item, index }: { item: Initiative; index: number }) {
                     {item.description}
                 </p>
                 <div className="mt-auto pt-6">
-                    {/* Replace #contact with the official destination URL when it is available. */}
                     <a
                         href="#contact"
                         aria-label={`Learn more about ${item.name}`}

@@ -41,7 +41,6 @@ export default function ContactSection() {
                         <p className="text-[9px] font-semibold uppercase tracking-[0.17em] text-[#aeb6a0] sm:text-[10px]">
                             For enquiries and collaborations
                         </p>
-                        {/* TODO: Replace this example address with Crystal's verified contact email before launch. */}
                         <a
                             href="mailto:collaborate@crystalkizor.com?subject=Enquiry%20for%20Crystal%20Kizor"
                             className="group mt-3 inline-flex max-w-full items-center gap-2 break-all text-[17px] font-medium tracking-[-0.025em] text-[#f5f4ef] transition-colors hover:text-[#c4cbb3] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#b8c0a4] sm:text-xl"
