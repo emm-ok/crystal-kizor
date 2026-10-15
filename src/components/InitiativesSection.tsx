@@ -44,7 +44,7 @@ const initiatives: Initiative[] = [
 
     },
     {
-        name: 'The Effective Architect',
+        name: 'The Effective Architect (TEA)',
         category: 'Learning · Media · Careers',
         description:
             'Resources and learning for architects and built-environment professionals who want to grow.',
@@ -244,10 +244,6 @@ export default function InitiativesSection() {
                         ))}
                     </div>
                 </div>
-
-                <p className="mt-6 text-[9px] leading-relaxed text-[#85897f]">
-                    Brand and project photography shown here is temporary and should be replaced with approved assets before launch.
-                </p>
             </div>
         </section>
     );

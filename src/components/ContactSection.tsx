@@ -43,17 +43,14 @@ export default function ContactSection() {
                         </p>
                         {/* TODO: Replace this example address with Crystal's verified contact email before launch. */}
                         <a
-                            href="mailto:contact@example.com?subject=Enquiry%20for%20Crystal%20Kizor"
+                            href="mailto:collaborate@crystalkizor.com?subject=Enquiry%20for%20Crystal%20Kizor"
                             className="group mt-3 inline-flex max-w-full items-center gap-2 break-all text-[17px] font-medium tracking-[-0.025em] text-[#f5f4ef] transition-colors hover:text-[#c4cbb3] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#b8c0a4] sm:text-xl"
                         >
-                            contact@example.com
+                            collaborate@crystalkizor.com
                             <ArrowUpRight size={16} strokeWidth={1.6} aria-hidden="true" className="shrink-0 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
                         </a>
-                        <p className="mt-2 text-[10px] leading-relaxed text-[#aeb6a0]">
-                            Temporary email placeholder — replace before publishing.
-                        </p>
                         <a
-                            href="mailto:contact@example.com?subject=Enquiry%20for%20Crystal%20Kizor"
+                            href="mailto:collaborate@crystalkizor.com?subject=Enquiry%20for%20Crystal%20Kizor"
                             className="group mt-7 inline-flex min-h-12 items-center gap-5 bg-[#f5f4ef] px-5 text-[11px] font-semibold text-[#202923] transition-colors duration-200 hover:bg-[#dfe3d5] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#b8c0a4]"
                         >
                             Get in touch

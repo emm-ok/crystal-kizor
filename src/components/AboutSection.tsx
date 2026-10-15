@@ -28,7 +28,7 @@ export default function AboutSection() {
                     <div className="relative aspect-[5/4] overflow-hidden bg-[#dedfd5] sm:aspect-[5/4.15]">
                         <img
                             src={aboutImage}
-                            alt="Temporary interior-design placeholder showing a contemporary living space with natural materials and soft daylight."
+                            alt="Image showing a contemporary living space with natural materials and soft daylight."
                             width={1100}
                             height={900}
                             loading="lazy"

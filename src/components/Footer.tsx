@@ -14,11 +14,16 @@ export default function SiteFooter() {
                         aria-label="Crystal Kizor, back to top"
                         className="group inline-flex w-fit items-center gap-3 rounded-sm focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#68745c]"
                     >
-                        <span className="flex size-9 items-center justify-center border border-[#202923]/35 transition-colors group-hover:border-[#7a8066]" aria-hidden="true">
+                        {/* <span className="flex size-9 items-center justify-center border border-[#202923]/35 transition-colors group-hover:border-[#7a8066]" aria-hidden="true">
                             <span className="font-serif text-[17px] leading-none tracking-[-0.12em]">C<span className="relative -left-[1px] top-[4px] text-[14px]">K</span></span>
-                        </span>
+                        </span> */}
+                        <img
+                            alt="Crystal Kizor — Space, Product &amp; Systems Designer"
+                            width="260" height="60"
+                            className="h-9 sm:h-11 w-auto object-contain block group-hover:opacity-85 transition-opacity"
+                            src="/crystal-kizor-primary.webp" />
                         <span>
-                            <span className="block text-[10px] font-semibold uppercase tracking-[0.17em]">Crystal Kizor</span>
+                            {/* <span className="block text-[10px] font-semibold uppercase tracking-[0.17em]">Crystal Kizor</span> */}
                             <span className="mt-1 block text-[9px] uppercase tracking-[0.11em] text-[#72766e]">Architecture · Design · Ideas</span>
                         </span>
                     </a>
