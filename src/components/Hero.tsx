@@ -114,7 +114,7 @@ export default function Hero() {
                 <div className="mx-auto flex max-w-[1360px] flex-col gap-3 px-5 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-8 sm:py-5 lg:px-12">
                     <p className="text-[9px] font-semibold uppercase tracking-[0.18em] text-[#72766b]">A connected ecosystem of work</p>
                     <p className="max-w-[610px] text-[11px] leading-relaxed text-[#555d53] sm:text-right sm:text-xs">
-                        Spaces, products, knowledge and community—each distinct, connected by a wider vision.
+                        Spaces, products, knowledge and community, each distinct, connected by a wider vision.
                     </p>
                 </div>
             </div>
